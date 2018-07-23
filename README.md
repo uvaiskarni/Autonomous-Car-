@@ -1,7 +1,21 @@
 # Autonomous-Car-
 Machine learning using convolution neural network
 
-Everything in this is has no striction on copy right 
+Required:
+
+raspberry pi
+pi cam
+compatibile rc car
+motor driver l293d
+
+Please create the respective files:
+
+forward
+idle
+left
+right
+reverse
+optimized_thetas
 
 This project aims to build an autonomous rc car using supervised learning of a neural network with a single hidden layer. We have not used any Machine Learning libraries since we wanted to implement the neural network from scratch to understand the concepts better.
 
